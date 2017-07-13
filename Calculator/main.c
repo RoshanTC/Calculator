@@ -33,7 +33,7 @@ int main(){
             printf("Multiplication is: %d",c);
             break;
         case 4:
-            if(a>b){
+            if(a<b){
                 c = b/a;
                 printf("Division is:%d",c);
             }
