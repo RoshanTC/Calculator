@@ -35,11 +35,11 @@ int main(){
         case 4:
             if(a>b){
                 c = b/a;
-                printf("Multiplication is:%d",c);
+                printf("Division is:%d",c);
             }
             else{
                 c = a/b;
-                printf("Multiplication is: %d",c);
+                printf("Division is: %d",c);
             }
         default:
             printf("Error");
